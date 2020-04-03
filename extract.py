@@ -1,5 +1,4 @@
 #!/bin/bash
-
 import xml.etree.ElementTree as ET
 import codecs
 import os
